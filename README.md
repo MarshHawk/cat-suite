@@ -1,4 +1,4 @@
-# template
+# Cat Suite
 Spring cataloging app POC
 
 Docker steps:
