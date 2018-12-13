@@ -5,4 +5,4 @@ ADD build/libs/cat-suite-0.0.1-SNAPSHOT.jar /cat-suite/cat-suite-0.0.1-SNAPSHOT.
 
 EXPOSE 8000
 
-CMD ["java", "-jar", "/cat-suite/cat-suite-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "/cat-suite/cat-suite-0.0.1.jar"]
