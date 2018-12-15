@@ -1,7 +1,4 @@
-###Keeping secrets here for now
-application.properties
-
-###The best Java IDE
+### The best Java IDE ###
 .vscode
 
 .gradle

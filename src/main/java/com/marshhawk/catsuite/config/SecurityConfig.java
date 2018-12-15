@@ -19,7 +19,6 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 
 import com.marshhawk.catsuite.filters.AuthenticationFilter;
 import com.marshhawk.catsuite.filters.LoginFilter;
-import com.marshhawk.catsuite.model.Cat;
 import com.marshhawk.catsuite.repos.CatRepository;
 import com.marshhawk.catsuite.service.CatService;
 
